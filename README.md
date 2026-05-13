@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy Angee Ramirez 👋
 
-<!--
-**AngeeRFranco/AngeeRFranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de datos en formación con foco en SQL y Python.
+Busco mi primer trabajo remoto donde los datos cuenten historias.
 
-Here are some ideas to get you started:
+**Actualmente aprendiendo:**
+- MySQL · GROUP BY · JOINs
+- Python · Pandas
+- Power BI (próximamente)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mis proyectos:**
+- portafolio-analisis-datos — mis ejercicios de SQL documentados
+
+📍 Santiago, Chile  |  🌐 Trabajo remoto
