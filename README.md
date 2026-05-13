@@ -19,7 +19,7 @@ trabajo remoto donde pueda crecer y aportar.
 
 | Proyecto | Descripción | Tecnología |
 |----------|-------------|------------|
-| [portafolio-analisis-datos](https://github.com/TU_USERNAME/portafolio-analisis-datos) | Ejercicios de SQL documentados | SQL |
+| [portafolio-analisis-datos](https://github.com/AngeeRFranco/portafolio-analisis-datos) | Ejercicios de SQL documentados | SQL |
 
 ---
 
