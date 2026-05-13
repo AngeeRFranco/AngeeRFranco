@@ -1,14 +1,34 @@
-# Hola, soy Angee Ramirez 👋
+## Hola, soy Angee Ramirez 👋
 
-Analista de datos en formación con foco en SQL y Python.
-Busco mi primer trabajo remoto donde los datos cuenten historias.
+Analista de datos en formación, apasionada por
+convertir datos en decisiones. Busco mi primer
+trabajo remoto donde pueda crecer y aportar.
 
-**Actualmente aprendiendo:**
-- MySQL · GROUP BY · JOINs
-- Python · Pandas
-- Power BI (próximamente)
+---
 
-**Mis proyectos:**
-- portafolio-analisis-datos — mis ejercicios de SQL documentados
+### 🛠️ Tecnologías que estoy aprendiendo
 
-📍 Santiago, Chile  |  🌐 Trabajo remoto
+- **SQL / MySQL** — consultas, JOINs, GROUP BY
+- **Python** — Pandas, visualización de datos
+- **Power BI** — dashboards interactivos (próximamente)
+- **GitHub** — control de versiones y portafolio
+
+---
+
+### 📂 Mis proyectos
+
+| Proyecto | Descripción | Tecnología |
+|----------|-------------|------------|
+| [portafolio-analisis-datos](https://github.com/TU_USERNAME/portafolio-analisis-datos) | Ejercicios de SQL documentados | SQL |
+
+---
+
+### 🌍 Sobre mí
+
+- 📍 Santiago, Chile
+- 🎯 Objetivo: trabajo remoto como analista de datos
+- 📚 Aprendiendo 1 hora diaria
+
+---
+
+*Última actualización: Mayo 2026*
