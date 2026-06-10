@@ -31,4 +31,4 @@ trabajo remoto donde pueda crecer y aportar.
 
 ---
 
-*Última actualización: Mayo 2026*
+*Última actualización: Junio 2026*
